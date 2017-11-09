@@ -2,16 +2,16 @@
   title: "Playing It My Way"
   finished: 2016-05-25
   rating: 4
-- author:  Adam Geitgey
+- author:  Adam Geitgey @ Medium
   title: "Machine Learning is Fun! Part 1 - Part 8"  
   finished: 2017-11-08
   rating: 5
   quotes:
-    - page: "4"
+    - part: "4"
       content: "Machine learning people call the 128 measurements of each face an embedding"
-    - page: "4"
+    - part: "4"
       content: "Face Landmarks"
-    - page: "4"
+    - part: "4"
       content: "Histogram of Oreinted Gradients (HOG)"
-    - page: "4"
+    - part: "4"
       content: "Now that you know how this all works, here’s instructions from start-to-finish of how run this entire face recognition pipeline on your own computer:"
