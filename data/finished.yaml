@@ -2,3 +2,15 @@
   title: "Playing It My Way"
   finished: 2016-05-25
   rating: 4
+- author:  Adam Geitgey
+  title: "Machine Learning is Fun! Part 1 - Part 8"
+  url: https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+  finished: 08-Nov-2017
+  rating:   5
+  quotes:
+    - page: "4"
+      content: "Machine learning people call the 128 measurements of each face an embedding"
+    - page: "4"
+      content: "Face Landmarks"
+    - page: "4"
+      content: "Histogram of Oreinted Gradients (HOG)"
