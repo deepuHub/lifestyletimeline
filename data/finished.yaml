@@ -57,3 +57,6 @@
   title: "The Science of Self-Realization"  
   finished: 2018-03-03
   rating: 5
+  quotes:
+    - page: "4"
+      content: "Modern Face Recognition with Deep Learning:- Machine learning people call the 128 measurements of each face an embedding. Encoding our face image This process of training a convolutional neural network to output face embeddings requires a lot of data and computer power. Even with an expensive NVidia Telsa video card, it takes about 24 hours of continuous training to get good accuracy. But once the network has been trained, it can generate measurements for any face, even ones it has never seen before! So this step only needs to be done once. Lucky for us, the fine folks at OpenFace already did this and they published several trained networks which we can directly use. Thanks Brandon Amos and team!" 
