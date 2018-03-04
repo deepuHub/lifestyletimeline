@@ -57,14 +57,3 @@
   title: "The Science of Self-Realization"  
   finished: 2018-03-03
   rating: 5
-  quotes:
-    - page: "1"
-      content: ""
-    - page: "4"
-      content: "Face Landmarks"
-    - page: "4"
-      content: "Histogram of Oreinted Gradients (HOG)"
-    - page: "4"
-      content: "Now that you know how this all works, here’s instructions from start-to-finish of how run this entire face recognition pipeline on your own computer:"
-    - page: "5"
-      content: "Language Translation with Deep Learning:- It turns out that over the past two years, deep learning has totally rewritten our approach to machine translation. Deep learning researchers who know almost nothing about language translation are throwing together relatively simple machine learning solutions that are beating the best expert-built language translation systems in the world. The technology behind this breakthrough is called sequence-to-sequence learning. It’s very powerful technique that be used to solve many kinds problems. After we see how it is used for translation, we’ll also learn how the exact same algorithm can be used to write AI chat bots and describe pictures. Let’s go!"    
