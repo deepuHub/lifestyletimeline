@@ -179,3 +179,25 @@
       content: "We can rely on our automated configuration systems to ensure consistency (e.g., Puppet, Chef, Ansible, Salt, Bosh, etc.), or we can create new virtual machines or containers from our automated build mechanism and deploy them into production, destroying the old ones or taking them out of rotation. The latter pattern is what has become known as immutable infrastructure, where manual changes to the production environment are no longer allowed—the only way production changes can be made is to put the changes into version control and re-create the code and environments from scratch. By doing this, no variance is able to creep into production. To prevent uncontrolled configuration variances, we may disable remote logins to production servers or routinely kill and replace production instances."
     - page: "9"
       content: "CONCLUSION The fast flow of work from Development to Operations requires that anyone can get production-like environments on demand. By allowing developers to use production-like environments even at the earliest stages of a software project, we significantly reduce the risk of production problems later. This is one of many practices that demonstrate how Operations can make developers far more productive. We enforce the practice of developers running their code in production-like environments by incorporating it into the definition of 'done.' Furthermore, by putting all production artifacts into version control, we have a 'single source of truth' that allows us to re-create the entire production environment in a quick, repeatable, and documented way, using the same development practices for Operations work as we do for Development work. And by making production infrastructure easier to rebuild than to repair, we make resolving problems easier and faster, as well as making it easier to expand capacity."
+- author:  Jeff Desjardins, Founder and editor of Visual Capitalist 
+  title: "10 skills you'll need to survive the rise of automation"
+  finished: 2018-07-07
+  rating: 5
+  quotes:
+    - page: "1"
+      content: "https://www.weforum.org/agenda/2018/07/the-skills-needed-to-survive-the-robot-invasion-of-the-workplace"    
+- author:  Jeff Desjardins, Founder and editor of Visual Capitalist 
+  title: "Visualizing the Massive $15.7 Trillion Impact of AI"
+  finished: 2018-05-25
+  rating: 3.5
+  quotes:
+    - page: "1"
+      content: "http://www.visualcapitalist.com/economic-impact-artificial-intelligence-ai/"   
+- author:  Dominic Rushe in New York 
+  title: "Bitcoin and cryptocurrencies 'will come to bad end', says Warren Buffett"
+  finished: 2018-03-25
+  rating: 3
+  quotes:
+    - page: "1"
+      content: "https://amp.theguardian.com/technology/2018/jan/10/bitcoin-and-cryptocurrencies-will-come-to-a-bad-end-says-warren-buffett"   
+  
