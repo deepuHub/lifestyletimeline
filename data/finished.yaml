@@ -458,29 +458,7 @@
    - page: "21"
       content: "Reserve Time to Create Organizational Learning and Improvement"
    - page: "21"
-      content: "INSTITUTIONALIZE RITUALS TO PAY DOWN TECHNICAL DEBT In this section, we schedule rituals that help enforce the practice of reserving Dev and Ops time for improvement work, such as non-functional requirements, automation, etc. One of the easiest ways to do this is to schedule and conduct day- or week-long improvement blitzes, where everyone on a team (or in the entire organization) self-organizes to fix problems they care about—no feature work is allowed."
-   - page: "21"
-      content: "Our goal during these blitzes is not to simply experiment and innovate for the sake of testing out new technologies, but to improve our daily work, such as solving our daily workarounds. While experiments can also lead to improvements, improvement blitzes are very focused on solving specific problems we encounter in our daily work."
-   - page: "21"
-      content: "These improvement blitzes are simple to administer: One week is selected where everyone in the technology organization works on an improvement activity at the same time. At the end of the period, each team makes a presentation to their peers that discusses the problem they were tackling and what they built. This practice reinforces a culture in which engineers work across the entire value stream to solve problems. Furthermore, it reinforces fixing problems as part of our daily work and demonstrates that we value paying down technical debt."
-   - page: "21"
-      content: "What makes improvement blitzes so powerful is that we are empowering those closest to the work to continually identify and solve their own problems."
-   - page: "21"
-      content: "A great example of the success of the improvement blitz concept is described by Mark Zuckerberg, Facebook CEO. In an interview with Jessica Stillman of www.Inc.com, he says, Every few months we have a hackathon, where everyone builds prototypes for new ideas they have. At the end, the whole team gets together and looks at everything that has been built. Many of our most successful products came out of hackathons, including Timeline, chat, video, our mobile development framework and some of our most important infrastructure like the HipHop compiler."
-   - page: "21"
-      content: "ENABLE EVERYONE TO TEACH AND LEARN"
-   - page: "21"
-      content: "ENABLE EVERYONE TO TEACH AND LEARN A dynamic culture of learning creates conditions so that everyone can not only learn, but also teach, whether through traditional didactic methods (e.g., people taking classes, attending training) or more experiential or open methods (e.g., conferences, workshops, mentoring). One way that we can foster this teaching and learning is to dedicate organizational time to it."
-   - page: "21"
-      content: "The most valuable thing any associate can do is mentor or learn from other associates."
-   - page: "21"
-      content: "As has been made evident throughout this book, certain skills are becoming increasingly needed by all engineers, not just by developers. For instance, it is becoming more important for all Operations and Test engineers to be familiar with Development techniques, rituals, and skills, such as version control, automated testing, deployment pipelines, configuration management, and creating automation. Familiarity with Development techniques helps Operations engineers remain relevant as more technology value streams adopt DevOps principles and patterns."
-   - page: "21"
-      content: "Although the prospect of learning something new may be intimidating or cause a sense of embarrassment or shame, it shouldnt. After all, we are all lifelong learners, and one of the best ways to learn is from our peers. Karthik Gaekwad, who was part of the National Instruments DevOps transformation, said, For Operations people who are trying to learn automation, it shouldnt be scary—just ask a friendly developer, because they would love to help."
-   - page: "21"
-      content: "For all technology professionals who love innovating, love change, there is a wonderful and vibrant future ahead of us."
-   - page: "21"
-      content: "SHARE YOUR EXPERIENCES FROM DEVOPS CONFERENCES In many cost-focused organizations, engineers are often discouraged from attending conferences and learning from their peers. To help build a learning organization, we should encourage our engineers (both from Development and Operations) to attend conferences, give talks at them, and, when necessary, create and organize internal or external conferences themselves."
+      content: "INSTITUTIONALIZE RITUALS TO PAY DOWN TECHNICAL DEBT In this section, we schedule rituals that help enforce the practice of reserving Dev and Ops time for improvement work, such as non-functional requirements, automation, etc. One of the easiest ways to do this is to schedule and conduct day- or week-long improvement blitzes, where everyone on a team (or in the entire organization) self-organizes to fix problems they care about—no feature work is allowed."   
 - author:  Jeff Desjardins, Founder and editor of Visual Capitalist 
   title: "10 skills you'll need to survive the rise of automation"
   finished: 2018-07-07
@@ -501,5 +479,4 @@
   rating: 3
   quotes:
     - page: "1"
-      content: "https://amp.theguardian.com/technology/2018/jan/10/bitcoin-and-cryptocurrencies-will-come-to-a-bad-end-says-warren-buffett"   
-  
+      content: "https://amp.theguardian.com/technology/2018/jan/10/bitcoin-and-cryptocurrencies-will-come-to-a-bad-end-says-warren-buffett"
